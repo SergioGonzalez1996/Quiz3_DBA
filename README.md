@@ -4,10 +4,11 @@
 
 Sergio Alejandro González Aguirre  
 CC: 1.152.702.702
+Quiz Tipo 2.
 
 ## Grupo
 
-Codigo de Asignatura: ABI104-1.
-Miercoles de 8:00 a 10:00 PM, Fraternidad Medellin.
-Septiembre 26 de 2018.
-Instituto Tecnologico Metropolitano.
+Codigo de Asignatura: ABI104-1.  
+Miercoles de 8:00 a 10:00 PM, Fraternidad Medellin.  
+Septiembre 26 de 2018.  
+Instituto Tecnologico Metropolitano.  

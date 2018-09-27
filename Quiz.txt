@@ -1,0 +1,31 @@
+PART I
+
+1. Create a tablespace with name 'quiz' and three datafiles. Each datafile of 15Mb.
+2. Create a profile with idle time of 20 minutes, the name of the profile should be 'student'
+3. Create an user named "usuario_1" with password "usuario_1". 
+	- The user should be able to connect
+	- The user should has the profile "student"
+	- The user should be associated to the tablespace "quiz"
+	- The user should be able to create tables WITHOUT USING THE DBA ROLE. 
+4. Create an user named "usuario_2" with password "usuario_2"
+	- The user should be able to connect
+	- The user should has the profile "student"
+	- The user should be associated to the tablespace "quiz"
+	- The user shouldn't be able to create tables.
+
+
+PART II
+
+1. With the usuario_1 create the next table (DON'T CHANGE THE NAME OF THE TABLE NOR COLUMNS: 
+2. Import this data (The format of the date is "YYYY-MM-DD HH24:MI:SS"): https://gist.github.com/amartinezg/6c2c27ae630102dbfb499ed22b338dd8
+3. Give permission to view table "attacks" of the usuario_2 (Do selects)
+
+PART III
+
+Queries: 
+
+1. Count the urls which have been attacked and have the protocol 'https'
+2. List the records where the URL attacked matches with google (it does not matter if it is google.co.jp, google.es, google.pt, etc) order by number of attacks ascendent
+3. List the ip addresses and the time of the last attack if the attack has been produced the last year (2017) (Hint: https://stackoverflow.com/a/30071091)
+4. Show the first IP Adress which has been registered with the minimum number of attacks 
+5. Show the ip address and the number of attacks if instagram has been attack using https protocol
