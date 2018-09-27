@@ -1,10 +1,10 @@
-# Tercer Quiz de AdmistraciÛn de Base de Datos Avanzada.
+# Tercer Quiz de Admistraci√≥n de Base de Datos Avanzada.
 
 ## Estudiante
 
-Sergio Alejandro Gonz·lez Aguirre  
-CC: 1.152.702.702
-Quiz Tipo 2.
+Sergio Alejandro Gonz√°lez Aguirre  
+CC: 1.152.702.702  
+Quiz Tipo 2.  
 
 ## Grupo
 
